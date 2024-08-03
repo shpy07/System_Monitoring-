@@ -2,12 +2,12 @@
 This script provides a simple system monitoring dashboard for displaying real-time metrics such as CPU usage, memory usage, disk usage, network activity, and system uptime. It also includes an alert mechanism for high CPU usage.
 
 ## Features
-CPU Usage: Displays the percentage of CPU used.
-Memory Usage: Shows the percentage of memory used.
-Disk Usage: Indicates the percentage of disk space used.
-Network Activity: Displays the amount of data received and transmitted.
-System Uptime: Shows the duration for which the system has been running.
-Alerts: Triggers an alert if CPU usage exceeds 80%.
+CPU Usage: Displays the percentage of CPU used.                                                                                                                                                                      
+Memory Usage: Shows the percentage of memory used.                                                                                                                                                                   
+Disk Usage: Indicates the percentage of disk space used.                                                                                                                                                             
+Network Activity: Displays the amount of data received and transmitted.                                                                                                                                              
+System Uptime: Shows the duration for which the system has been running.                                                                                                                                             
+Alerts: Triggers an alert if CPU usage exceeds 80%.                                                                                                                                                                  
 
 ## Usage
 1. Clone or Download the Script:
