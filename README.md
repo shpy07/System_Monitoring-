@@ -15,10 +15,10 @@ Alerts: Triggers an alert if CPU usage exceeds 80%.
 
 2. Make the Script Executable:
    ```bash
-      chmod +x monitor_dashboard.sh
+      chmod +x system_monitor.sh
 3. Run the Script:
    ```bash
-     ./monitor_dashboard.sh
+     ./system_monitor.sh
    
 The script will refresh every 5 seconds, displaying the latest system metrics and alerts.
 
